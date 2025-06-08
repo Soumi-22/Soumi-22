@@ -126,9 +126,10 @@
   <a href="https://www.instagram.com/soumipaull/?next=%2F" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:soumipaul166@gmail.com?subject=Contact%20from%20GitHub&amp;body=Hello%20Soumi," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
-  </a>
+  <a href="mailto:soumipaul166@gmail.com?subject=Contact%20from%20GitHub" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
   <a href="https://www.facebook.com/soumi.paul.906638" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook">
   </a>
